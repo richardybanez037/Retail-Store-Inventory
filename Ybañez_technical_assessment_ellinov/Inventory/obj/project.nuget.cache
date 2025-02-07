@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ho1QG13lX3xhRWgPMYnVGefxQkjhX8lQizL7YhhPG2pOmhVWcsIxWyv3dtVQSa6C1idaWIlo79YDGB6eaZxmew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\projects\\Ybañez_technical_assessment_ellinov\\Inventory\\Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
