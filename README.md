@@ -1,2 +1,2 @@
 # Retail-Store-Inventory
-Ellinov Technical Assessment
+C# console application
